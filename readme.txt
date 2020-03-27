@@ -1,4 +1,4 @@
-###Junk File Organizer : 
+Junk File Organizer : 
 It is a python program that runs as a command-line tool. Basically, as a lazy programmer, my desktop or any directory is full of files.
 Due to a large number of files, it is a daunting task to sit and organize each and every file. It is a Python script that comes in handy 
 and returns a folder “Organiser” where all the files are organized in a well-manner within seconds. It organizes by size(size), last modified 
